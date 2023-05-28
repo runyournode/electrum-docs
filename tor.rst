@@ -108,7 +108,7 @@ It should already say something similar to what’s in between the speech bubble
 
 What we want to do is add on the bit after the last speech bubble. Make a space and then enter / copy and paste.
 
-"C:\Program Files (x86)\Electrum\electrum.exe" -1 -s electrums3lojbuj.onion:50001:t -p socks5:localhost:9050
+`"C:\Program Files (x86)\Electrum\electrum.exe" -1 -s electrums3lojbuj.onion:50001:t -p socks5:localhost:9050`
 
 Apply and Ok the change... You can go back to the General Tab if you want and Where it says "electrum.exe - Shortcut" you could change that to Electrum - Tor or something
 
